@@ -1,1 +1,1 @@
-# thingsboard-config
+# ThingsBoard configuration for Weather Station deployments
